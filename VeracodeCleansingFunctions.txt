@@ -1,1 +1,10 @@
 https://help.veracode.com/reader/4EKhlLSMHm5jC8P8j3XccQ/IiF_rOE79ANbwnZwreSPGA
+New addition 01-02-2019
+If Consumer:
+
+Is your application consuming only WMB MQ service? Yes/No 
+Is the application using JMS or MQI to interact with MQ? 
+ 
+Is the application using GMICore to interact with MQ? 
+research on this terminologies and try to identify which all are used in our application
+ 
