@@ -1,0 +1,13 @@
+UTD
+Subjects : 
+Control, Modeling and Simulation in Power Electronics
+Digital Communication Systems
+Computer Architecture
+Advanced Digital Logic
+
+Professor
+1.Dongsheng (Brian) Ma --Erik Jonsson Distinguished Professor  ->  IoTs and battery powered portable electronics.
+
+Associate Professor
+1.Ghanshyamsinh Gohil - Smart Energy Systems (Renewable Energy Integration , Micro-grid management and control )
+2.
