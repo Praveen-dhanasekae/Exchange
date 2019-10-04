@@ -1,3 +1,6 @@
+Check for Mesh Current analysis
+1. loop 2 r2 direction
+
 UTD
 Subjects : 
 Control, Modeling and Simulation in Power Electronics
